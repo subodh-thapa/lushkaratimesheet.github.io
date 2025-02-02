@@ -1,0 +1,22 @@
+.button {
+    display: block; 
+    margin: auto; 
+}
+
+
+.total-hours {
+    padding:1em;
+    align-content: center;
+    margin:0 auto;
+    background-color: bisque;
+    margin-left: 10em
+}
+
+.total {
+    margin-top: 10px; 
+    text-align:center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 1em;
+}
